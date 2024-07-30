@@ -126,11 +126,11 @@ button.bottom-right:hover {
 }
 
 body.page2 {
+    background-image: url(1.jpg);
     background-color: #f28492;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }
 
-.letter1{
-    height: 550px;
-    width: 450px;
-    margin-left: 400px;  
-  }
